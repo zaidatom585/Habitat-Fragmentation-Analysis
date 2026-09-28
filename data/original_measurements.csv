@@ -1,0 +1,11 @@
+common_name,clusters,largest_fragment,smallest_fragment,max_separation_km,unit
+Buena Vista Lake ornate shrew,4,4.5,0.4,124,sq_km
+Bull trout,15,250,5,45,km_of_waterway
+Canada lynx,6,9145,1840,1615,sq_km
+California condor,5,715,17,180,sq_km
+California red-legged frog,20,1928,5.3,212,sq_km
+Colorado pikeminnow,2,170,30,60,km_of_waterway
+Desert tortoise,12,7200,240,480,sq_km
+Florida bonneted bat,7,690,10.6,145,sq_km
+Gray wolf,3,15247,4277,250,sq_km
+Haha,4,18,1.4,15,sq_km

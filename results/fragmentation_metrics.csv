@@ -1,0 +1,11 @@
+common_name,scientific_name,taxon,habitat_type,region,kml_file,designation_year,polygons,patches,slivers_removed,clusters_5km,clusters_10km,clusters_25km,clusters_50km,total_area_km2,largest_patch_km2,smallest_patch_km2,median_patch_km2,largest_patch_share,median_nn_km,max_nn_km,extent_km,period
+Buena Vista Lake ornate shrew,Sorex ornatus relictus,Mammal,Marsh/Wetlands,Southern West Coast,FCH_Sorex_ornatus_ssp_relictus_20130702.kml,2013,10,6,0,6,4,4,2,10.04,5.15,0.34,1.3,0.513,18.1,62.3,146.62,2013-2025
+Bull trout,Salvelinus confluentus,Fish,Cold Freshwater,Northwest USA,FCH_SALVELINUS_CONFLUENTUS_20101018.kml,2010,2689,87,1,21,10,4,4,2793.78,594.38,0.02,1.6,0.213,2.23,62.9,944.29,2001-2012
+Canada lynx,Lynx canadensis,Mammal,Boreal Forest,Northern USA,FCH_Lynx_canadensis_20140912.kml,2014,67,31,1,8,5,5,5,100628.67,25670.05,0.03,2.81,0.255,1.05,1261.98,3680.18,2013-2025
+California condor,Gymnogyps californianus,Bird,Montane/Cliff,West Coast USA,FCH_Gymnogyps_californianus_19670311.kml,1967,10,9,0,9,8,4,3,2449.07,713.04,17.19,206.18,0.291,15.7,33.64,173.68,1960-2000
+California red-legged frog,Rana draytonii,Amphibian,Marsh/Wetlands,West Coast USA,FCH_Rana_draytonii_20100317.kml,2010,51,42,0,34,25,13,5,6638.38,1841.42,2.1,50.47,0.277,5.68,88.15,680.62,2001-2012
+Colorado pikeminnow,Ptychocheilus lucius,Fish,Cold Freshwater,Rocky Mountains,FCH_Ptychocheilus_lucius_19940321.kml,1994,8,2,0,2,2,2,2,244.49,169.84,74.65,122.25,0.695,60.88,60.88,60.88,1960-2000
+Desert tortoise,Gopherus agassizii,Reptile,Arid,Southern West Coast,FCH_Gopherus_agassizii_19940208.kml,1994,33,10,0,7,5,4,1,26120.63,7715.24,27.23,2270.27,0.295,4.87,8.46,417.36,1960-2000
+Florida bonneted bat,Eumops floridanus,Mammal,Subtropical Forest/Urban,Southeastern USA,FCH_EUMOPS_FLORIDANUS_20240307.kml,2024,82,46,0,9,7,3,1,4705.46,2895.3,0.02,0.38,0.615,1.55,16.53,270.07,2013-2025
+Gray wolf,Canis lupus,Mammal,Mixed Woodlands,Northern Midwest USA,FCH_Canis_lupus_19780309.kml,1978,3,2,0,2,2,2,1,23334.72,15030.83,8303.89,11667.36,0.644,31.74,31.74,31.74,1960-2000
+Haha,Cyanea superba,Plant,Tropical Forest,Hawaii (Pacific Islands),FCH_Cyanea_superba_20120918.kml,2012,3,3,0,2,1,1,1,23.81,18.06,1.43,4.31,0.759,0.5,5.28,9.89,2001-2012

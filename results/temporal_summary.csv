@@ -1,0 +1,4 @@
+period,species,clusters_10km,largest_patch_km2,smallest_patch_km2,median_patch_km2,median_nn_km,max_nn_km,extent_km
+1960-2000,4,4.25,5907.24,2105.74,3566.52,28.3,33.68,170.92
+2001-2012,3,12.0,817.95,1.18,18.79,2.8,52.11,544.93
+2013-2025,3,5.33,9523.5,0.13,1.5,6.9,446.94,1365.62

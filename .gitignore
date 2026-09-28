@@ -1,0 +1,7 @@
+# The bull trout layer is 110 MB, over GitHub's 100 MB file limit.
+# Download it from the FWS link in the README into data/kml/.
+data/kml/FCH_SALVELINUS_CONFLUENTUS_20101018.kml
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
